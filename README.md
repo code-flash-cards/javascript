@@ -1,6 +1,10 @@
-# javascript
+<p align="center">
+    <img alt="Code-flash-cards" src="https://i.postimg.cc/dVc8gRrZ/CFC.png" width="80" />
+</p>
+<h1 align="center">
+  Javascript - Code flash cards
+</h1>
 
-![code flash cards](https://i.postimg.cc/dVc8gRrZ/CFC.png)
 
 1. [¿Que es code flash cards?](#¿Que-es-code-flash-cards?)
 2. [¿Como contribuir?](#¿Como-contribuir?)
